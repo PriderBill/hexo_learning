@@ -1,12 +1,1 @@
-# You can use this:
-deploy:
-  type: next
-  repo: https://github.com/PriderBill/hexo_learning
-  branch: main
-  token: ''
-  message: [message]
-  name: [git user]
-  email: [git email]
-  extend_dirs: [extend directory]
-  ignore_hidden: false # default is true
-  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
+theme: next
