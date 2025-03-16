@@ -1,8 +1,8 @@
 # You can use this:
 deploy:
-  type: git
-  repo: <repository url>
-  branch: [branch]
+  type: next
+  repo: https://github.com/PriderBill/hexo_learning
+  branch: main
   token: ''
   message: [message]
   name: [git user]
